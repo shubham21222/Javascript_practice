@@ -14,5 +14,5 @@ student_number = 2123133
 console.log(Student_name);
 console.log(student_number)
 
-console.table([Student_name],[Student_address],[student_number]);
-
+console.table([Student_name],[Student_address],[student_number])
+console.log("my name is shubham")
