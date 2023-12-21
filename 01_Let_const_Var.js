@@ -15,4 +15,4 @@ console.log(Student_name);
 console.log(student_number)
 
 console.table([Student_name],[Student_address],[student_number]);
-console.log("shubham")
+
